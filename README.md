@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on
+- 🔭 I’m currently looking for a junior dev job or similar
+- 🌱 I’m currently learning web development using Next.js and Tailwind CSS
 
 <!--
 **TaskerJ72129/TaskerJ72129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
