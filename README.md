@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently looking for a junior dev job or similar
+- 🔭 I’m currently looking for a junior developer job or similar
 - 🌱 I’m currently learning web development using Next.js and Tailwind CSS
 
 <!--
