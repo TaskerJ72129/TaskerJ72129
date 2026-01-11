@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm James Tasker a recent Computer Science graduate from the University of Auckland
+
 - 🔭 I’m currently looking for a junior developer job or similar
 - 🌱 I’m currently learning web development using Next.js and Tailwind CSS
 
